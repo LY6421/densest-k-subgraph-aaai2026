@@ -1,6 +1,7 @@
 # A Scalable and Exact Relaxation for Densest k-Subgraph via Error Bounds
 
-📌 This repository contains the official code demo for reproducing the results presented in our paper:
+📌 This repository contains the official code demo for reproducing the results presented in our paper.
+
 📄 The extended version with supplementary material is available on arXiv: [https://arxiv.org/abs/2511.11451](https://arxiv.org/abs/2511.11451)
 
 If you find this work useful, please consider citing our paper.
