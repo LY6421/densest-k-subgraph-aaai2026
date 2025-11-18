@@ -5,4 +5,4 @@
 
 If you find this work useful, please consider citing our paper.
 
-If you are interested in this work or have any questions regarding the code, you are welcome to reach out via the contact email provided in the paper, or directly contact Ya Liu at: 📧 liuya6421@163.com📧 liuya6421@163.com
+If you are interested in this work or have any questions regarding the code, you are welcome to reach out via the contact email provided in the paper, or directly contact Ya Liu at: 📧 liuya6421@163.com
