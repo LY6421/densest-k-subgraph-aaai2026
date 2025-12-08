@@ -37,6 +37,7 @@ for i = 1:length(K_values)
     
     %% EP-Prox method
     % suggested parameters:
+    % For different datasets, parameter fine-tuning may lead to better results.
     lambda = 1e-10;
     c_lambda = 20;
     error_out = 1e-11;
@@ -71,3 +72,4 @@ ylabel('Edge Density');
 grid on;
 title('HepTh');
 legend('EP-Prox')
+
